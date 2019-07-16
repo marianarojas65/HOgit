@@ -31,7 +31,7 @@ Editamos el archivo de README y hacemos un nuevo commit
 ```
 vi README.md
 
-## Modifico el archivo README para ver que ocurre cuando hago commit
+
 .........
 git add README.md
 git commit
@@ -49,11 +49,14 @@ y nos movemos a ella
 git checkout charlas
 ```
 
-en esta branch, editamos README.md de nuevp
+en esta branch, editamos README.md de nuevo
 
 ```
 vi README.md
 ...
+
+## Modifico el archivo README.md nuevamente, desde la rama charla
+
 git add README.md
 git commit
 ```
